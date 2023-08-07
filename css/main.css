@@ -381,8 +381,9 @@ input[type="button"] {
    About Page
    ========================================================================== */
 #callnow{
-    font-size:32px;
-   position: absolute;
+    font-size:18px;
+   align-items: center;
+   
 }
 .mission {
     background-color: #ba83ef;
